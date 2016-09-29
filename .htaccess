@@ -1,0 +1,2 @@
+AddCharset cp1251 .php .html .js
+AddDefaultCharset off

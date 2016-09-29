@@ -1,0 +1,183 @@
+body {
+	background-color: Black;
+	border-color : Red;
+	scrollbar-face-color:Maroon;
+	scrollbar-arrow-color:White;
+	scrollbar-track-color:Black;
+	scrollbar-shadow-color:Maroon;
+	scrollbar-highlight-color:Maroon;
+	scrollbar-3dlight-color:Red;
+	scrollbar-darkshadow-Color:'Red'
+	}
+
+p,ul,ol {
+	color: #A9A9A9;
+	font-size: 70%;
+	font-family: Verdana, "Lucida Sans", Arial, Geneva, Helvetica, Helv, "Myriad Web", Syntax, sans-serif;
+	text-align: justify;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	font-family: "Trebuchet MS", Verdana, "Lucida Sans", Arial, Geneva, Helvetica, Helv, "Myriad Web", Syntax, sans-serif;
+	}
+
+h1
+{
+	color: Silver;
+	font-size: 100%;
+	font-weight: bold;
+	}
+
+h2
+{
+	color: Silver;
+	font-size: 120%;
+	font-weight: normal;
+	border: 1px solid Silver;
+	border-width: 0px 0px 1px 0px;
+	padding-bottom: 0px;
+	}
+
+h3
+{
+	color: Silver;
+	font-size: 100%;
+	font-weight: bold;
+	border-width: 0px 0px 1px 0px;
+	padding-bottom: 0px;
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+.left {
+	text-align: left;
+}
+
+.center {
+	text-align: center;
+}
+
+.nav {
+	color: #8B0000;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 80%;
+	font-family: Verdana, "Lucida Sans", Arial, Geneva, Helvetica, Helv, "Myriad Web", Syntax, sans-serif;
+}
+
+.title {
+	color: Silver;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 70%;
+	font-family: Verdana, "Lucida Sans", Arial, Geneva, Helvetica, Helv, "Myriad Web", Syntax, sans-serif;
+}
+
+.small {
+	color: Silver;
+	font-size: 60%;
+	font-family: Verdana, "Lucida Sans", Arial, Geneva, Helvetica, Helv, "Myriad Web", Syntax, sans-serif;
+}
+
+.footer {
+	color: Black;
+	font-size: 60%;
+	font-family: Verdana, "Lucida Sans", Arial, Geneva, Helvetica, Helv, "Myriad Web", Syntax, sans-serif;
+	text-align: center;
+}
+
+a {
+	color: blue;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+a:active {
+	text-decoration: underline overline;
+}
+
+a:hover {
+	color: Red;
+	text-decoration: underline overline;
+}
+.mnav 
+	{ 
+	background-color: Maroon;
+	border-left:1px solid Red;
+	}
+.mnavo 
+	{
+	border-color : Red Red Red Red;
+	border-top:1px solid Red;
+	border-right:1px solid Red;
+	border-bottom:1px solid Red;
+	border-left:1px solid Red;
+}
+.oddcolumn {
+	background-color: #feef89;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.evencolumn {
+	background-color: #feefaf;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.tableheader {
+	background-color: #f39c4e;
+	font-weight: bold;
+}
+.column {
+	background-color: #D2691E;
+	padding: 5px;
+}
+.sumdata {
+	background-color: #FFB6C1;
+	font-weight: bold;
+	font-style: italic;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.totaldata {
+	background-color: #FF6347;
+	font-weight: bold;
+	font-style: italic;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.report_header{
+	text-align: center;
+	color: Black;
+	font-weight: bold;
+	font-size: 22px;
+	
+}
+.hiddenrow {
+    display: none;
+}
+
